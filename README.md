@@ -4,7 +4,7 @@ Este proyecto es una aplicación creada con **React + Vite** que muestra una hoj
 
 ---
 
-## 🖼️ Resulttado esperado
+## 🖼️ Resultado esperado
 
 ![Captura del proyecto en navegador](./public/proyect.png)
 
