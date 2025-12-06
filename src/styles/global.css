@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+a {
+    color: var(--color-blue-600);
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
