@@ -6,7 +6,8 @@ Este proyecto es una aplicación creada con **React + Vite** que muestra una hoj
 
 ## 🖼️ Resultado esperado
 
-![Captura del proyecto en navegador](./public/proyect.png)
+![Captura del proyecto en navegador](./public/screenshot.png)
+![foto bonita del proyecto](./public/proyect.png)
 
 ---
 
